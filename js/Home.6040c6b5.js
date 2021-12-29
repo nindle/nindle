@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Home"],{"7abe":function(e,n,t){"use strict";t.r(n);var o=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("2")])},u=[],c={data:function(){return{}},mounted:function(){},methods:{},computed:{}},a=c,r=t("2877"),i=Object(r["a"])(a,o,u,!1,null,"2182ff18",null);n["default"]=i.exports}}]);
+//# sourceMappingURL=Home.6040c6b5.js.map
