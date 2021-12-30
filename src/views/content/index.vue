@@ -1,11 +1,11 @@
 <template>
-  <div class="home"><el-calendar v-model="value"></el-calendar></div>
+  <div></div>
 </template>
 
 <script>
 export default {
   data() {
-    return { value: new Date() };
+    return {};
   },
   mounted() {},
   methods: {},
