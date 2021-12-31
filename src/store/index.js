@@ -1,3 +1,8 @@
-import Vue from 'vue';
 import Vuex from 'vuex';
-Vue.use(Vuex);
+import user from './modules/user'; //引入模块js文件
+export default new Vuex.Store({
+  state: {},
+  modules: {
+    user, //注册模块
+  },
+});
