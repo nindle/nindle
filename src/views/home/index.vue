@@ -1,5 +1,11 @@
 <template>
-  <div class="home"><el-calendar v-model="value"></el-calendar></div>
+  <div class="home">
+    <div class="content">
+      嵌套而来，原地址：
+      <a href="https://vue3js.cn/interview/">https://vue3js.cn/interview/</a>
+    </div>
+    <iframe src="https://vue3js.cn/interview/" frameborder="no"></iframe>
+  </div>
 </template>
 
 <script>
@@ -14,7 +20,14 @@ export default {
 </script>
 
 <style scoped lang="scss">
-.home {
-  width: 500px;
+.content {
+  text-align: center;
+  font-weight: 700;
+  font-size: 12px;
+}
+iframe {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
 }
 </style>
