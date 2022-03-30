@@ -1,0 +1,29 @@
+name: Metrics
+on:
+  schedule:
+    - cron: '0 0/3 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          filename: metrics.svg
+          user: ninlde
+          base: ''
+          config_timezone: Asia/Beijing
+          config_twemoji: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          use_prebuilt_image: yes
