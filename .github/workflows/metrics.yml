@@ -20,7 +20,7 @@ jobs:
 
           # Options
           filename: metrics.svg
-          user: ninlde
+          user: nindle
           base: ''
           config_timezone: Asia/Beijing
           config_twemoji: yes
