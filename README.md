@@ -9,17 +9,18 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
 
-<!-- 代码提交图 -->
-<div>
-  <img src="https://github.com/nindle/nindle/blob/main/metrics.svg" width="100%" />
-</div>
-
-<div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nindle&layout=compact" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nindle&show_icons=true&theme=tokyonight" />
-</div>
-
 <!-- 贪吃蛇代码贡献图 -->
 ![](https://raw.githubusercontent.com/nindle/nindle/output/github-contribution-grid-snake.svg)
+
+<!-- 代码提交图 -->
+<!-- <div>
+  <img src="https://github.com/nindle/nindle/blob/main/metrics.svg" width="100%" />
+</div> -->
+
+<div>
+    <img height="165" width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nindle&layout=compact" />
+    <img height="165" width="50%" src="https://github-readme-stats.vercel.app/api?username=nindle&show_icons=true&theme=tokyonight" />
+</div>
+
 
 ![](https://komarev.com/ghpvc/?username=nindle&color=red)
