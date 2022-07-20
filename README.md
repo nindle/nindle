@@ -24,4 +24,6 @@
 
 ![](https://raw.githubusercontent.com/nindle/nindle/output/github-contribution-grid-snake.svg)
 
+![](https://raw.githubusercontent.com/nindle/nindle/output/github-contribution-grid-snake.svg)
+
 ![](https://komarev.com/ghpvc/?username=nindle&color=red)
