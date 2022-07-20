@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nindle&layout=compact)](https://github.com/nindle/github-readme-stats)
 
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nindle&show_icons=true&theme=tokyonight)
+
 
 ![](https://komarev.com/ghpvc/?username=nindle&color=red)
 
