@@ -16,11 +16,13 @@
 <!-- <div>
   <img src="https://github.com/nindle/nindle/blob/main/metrics.svg" width="100%" />
 </div> -->
+<br>
 
 <div>
-    <img height="165" width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nindle&layout=compact" />
-    <img height="165" width="50%" src="https://github-readme-stats.vercel.app/api?username=nindle&show_icons=true&theme=tokyonight" />
+    <img height="165" width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nindle&layout=compact" />
+    <img height="165" width="45%" src="https://github-readme-stats.vercel.app/api?username=nindle&show_icons=true" />
 </div>
-
+<br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=nindle&color=red)
