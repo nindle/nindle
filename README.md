@@ -18,15 +18,13 @@
 </div> -->
 <br>
 
-<div>
-    <img height="170px" width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nindle&layout=compact" />
-    <img height="170px" width="45%" src="https://github-readme-stats.vercel.app/api?username=nindle&show_icons=true" />
-</div>
-<br>
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nindle&show_icons=trueline_height=21" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nindle&layout=compact&langs_count=6" />
+  <img height="170px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nindle&layout=compact" />
+  <img height="170px" width="45%" src="https://github-readme-stats.vercel.app/api?username=nindle&show_icons=true" />
 </div>
+
+
+<br>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=nindle&color=red)
