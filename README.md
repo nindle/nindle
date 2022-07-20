@@ -5,3 +5,5 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=nindle&color=red)
+
+![Visitor Count](https://profile-counter.glitch.me/nindle/count.svg)
