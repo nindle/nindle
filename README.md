@@ -14,16 +14,12 @@
   <img src="https://github.com/nindle/nindle/blob/main/metrics.svg" width="100%" />
 </div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/nindle/nindle/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nindle&layout=compact" />
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=nindle&show_icons=true&theme=tokyonight" />
 </div>
 
-![](https://raw.githubusercontent.com/nindle/nindle/output/github-contribution-grid-snake.svg)
-
+<!-- 贪吃蛇代码贡献图 -->
 ![](https://raw.githubusercontent.com/nindle/nindle/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=nindle&color=red)
