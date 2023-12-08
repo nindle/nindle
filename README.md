@@ -8,7 +8,7 @@
 
 ## About Me
 
-- :credit_card: I am a **frontend developer** <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" width="500" align="right" />
+- :credit_card: I am a **frontend developer** <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" width="450" align="right" />
 - :books: My major is **Vue and React**
 - :earth_asia: I'm living now in **China**
 - :bicyclist: I love Outdoor Ride, Badminton and Billiards.
