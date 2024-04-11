@@ -14,7 +14,7 @@
 - :bicyclist: I love Outdoor Ride, Badminton and Billiards.
 - :desktop_computer: This is my homepage <a href="https://nindle.me" target="view_window">nindle.me</a>
 - :mailbox_closed: If you want to contact me, the following is my contact information.
-- 📧 Gmail: **nindleguge@gmail.com**
+- 📧 Gmail: **nindle@nindle.me**
 - 🔗 Twitter:  <a href="https://twitter.com/Nindle_Ch" target="view_window">@Nindle_Ch</a>
 - 🌏 Wechat:  **Nindle**
 
